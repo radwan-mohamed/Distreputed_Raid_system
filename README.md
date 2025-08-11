@@ -1,5 +1,5 @@
 # Distreputed_Raid5_system_Data Recovery Project
-to retrive data if its lost
+to retrive data if its lost Special Thanks to Ahemd Aboelrous and Ali and Yehia adawy for their team work as this project is collaboration from all of us 
 
 
 ## Overview
